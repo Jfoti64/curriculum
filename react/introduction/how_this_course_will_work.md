@@ -2,7 +2,7 @@
 
 Hello there, and welcome to The Odin Project’s React course. In this course, we'll start by learning about the basics of React and then move on to more advanced concepts. We'll be building projects along the way that you can add to your portfolio to impress recruiters with your React skills.
 
-Make sure you’ve completed our [JavaScript course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) before starting this one. We can’t emphasize enough how important it is to have a solid understanding of JavaScript before diving into React. At the end of the day, React *is* vanilla JavaScript, so being able to navigate JavaScript is paramount to building a successful React project.
+Make sure you’ve completedour [JavaScript course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) before starting this one. We can’t emphasize enough how important it is to have a solid understanding of JavaScript before diving into React. At the end of the day, React *is* vanilla JavaScript, so being able to navigate JavaScript is paramount to building a successful React project.
 
 ### The journey ahead
 
